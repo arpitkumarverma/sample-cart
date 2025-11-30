@@ -1,5 +1,5 @@
 # Prerequisities
-JDK 11
+JDK 17
 Docker
 
 # How bring the mockservice up
